@@ -54,6 +54,10 @@ Completing the tasks will earn you points toward the final score.
 
 ---
 
+## Source Code
+- [.NET implementation](https://github.com/MoaidHathot/movie-mcp-workshop/tree/dotnet)
+- [TypeScript implementation](https://github.com/MoaidHathot/movie-mcp-workshop/tree/typescript)
+
 ## Environment Requirements
 
 To run this project you will need the following:
