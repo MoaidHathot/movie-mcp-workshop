@@ -40,10 +40,10 @@ Other clients (e.g., `cline`) may work, but **your experience may differ** and w
 
 Each task has an associated **point value**. Once you complete a task:
 - **Call an instructor** to review it.
-- Upon approval, **log your progress in the shared Excel sheet**.
+- Upon approval, **log your progress in the [shared Excel sheet](https://aka.ms/AzNet/DayOfLearning/2025/workshop/status)**.
 - The [task list](https://github.com/MoaidHathot/movie-mcp-workshop/blob/main/tasks/task01.md) can be found in the main branch
 
-Completing the tasks will earn you points toward the final score.
+Completing the [tasks](https://github.com/MoaidHathot/movie-mcp-workshop/blob/main/tasks/task01.md) will earn you points toward the final score.
 
 ### Final Tips
 
