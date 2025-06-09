@@ -54,6 +54,10 @@ Completing the tasks will earn you points toward the final score.
 
 ---
 
+## Source Code
+- [.NET implementation](https://github.com/MoaidHathot/movie-mcp-workshop/tree/dotnet)
+- [TypeScript implementation](https://github.com/MoaidHathot/movie-mcp-workshop/tree/typescript)
+
 ## Environment Requirements
 - .NET SDK 9
 - Editor/IDE of your choice (e.g., Visual Studio, Visual Studio Code, Neovim, etc.)
