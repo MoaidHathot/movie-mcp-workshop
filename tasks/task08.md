@@ -4,4 +4,5 @@
     - `Create a summary of the plot by each episode of "Frieren: Beyond Journey's End"`
 - Sample result:
   
-![image](https://github.com/user-attachments/assets/4affbee2-2eea-4353-bb3f-50dfe1669af8)
+![image](https://github.com/user-attachments/assets/ea70dc49-c8c2-409c-87b4-d51b7a381629)
+
